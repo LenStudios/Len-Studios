@@ -133,7 +133,7 @@ noStroke();
 	//line(0, 0, radius, 0);
   
     let force = 1 * sin(angle);
-  angleA = (-1 * force) / 6000;
+  angleA = (-1 * force) / 9000;
   angleV += angleA;
   angle += angleV;
 
