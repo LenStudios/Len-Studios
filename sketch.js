@@ -96,7 +96,7 @@ fov = PI / 6;
 
 
   push();
-  tex.resize(100, 100);
+  tex.resize(50, 50);
   translate(width / 2, height / 2);
    rotate(180);
    imageMode(CENTER);
